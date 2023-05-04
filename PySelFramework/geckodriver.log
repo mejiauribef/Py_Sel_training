@@ -1,0 +1,41 @@
+1644875609645	geckodriver	INFO	Listening on 127.0.0.1:61003
+1644875612710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61004" "-no-remote" "-profile" "C:\\Users\\FFD4E~1.MEJ\\AppData\\Local\\Temp\\rust_mozprofilePZVl5e"
+1644875890194	geckodriver	INFO	Listening on 127.0.0.1:61080
+1644875893282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61081" "-no-remote" "-profile" "C:\\Users\\FFD4E~1.MEJ\\AppData\\Local\\Temp\\rust_mozprofileyyJCIg"
+1644875893557	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1644875893633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1644875893634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1644875893634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1644875893634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1644875895018	Marionette	INFO	Listening on port 61086
+DevTools listening on true
+1644875895333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1644875918580	Marionette	INFO	Stopped listening on port 61086
+1644961266068	geckodriver	INFO	Listening on 127.0.0.1:51654
+1644961269145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51655" "-no-remote" "-profile" "C:\\Users\\FFD4E~1.MEJ\\AppData\\Local\\Temp\\rust_mozprofileaRKwqo"
+1644961269910	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1644961270039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1644961270039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1644961270040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1644961270040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1644961271680	Marionette	INFO	Listening on port 51660
+DevTools listening on true
+1644961271831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1644961294402	Marionette	INFO	Stopped listening on port 51660
+1644961295649	geckodriver	INFO	Listening on 127.0.0.1:51726
+1644961298733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51727" "-no-remote" "-profile" "C:\\Users\\FFD4E~1.MEJ\\AppData\\Local\\Temp\\rust_mozprofileWljYp9"
+1644961299010	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1644961299092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1644961299092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1644961299092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1644961299092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1644961300360	Marionette	INFO	Listening on port 51732
+DevTools listening on true
+1644961300776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1644961319039	Marionette	INFO	Stopped listening on port 51732

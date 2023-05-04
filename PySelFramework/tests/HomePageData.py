@@ -1,0 +1,2 @@
+class HomePageData:
+    test_HomePage_Data = [{"firstname":"Felipe","lastname":"Mejia","gender" : "Male"},{"firstname":"Dam","lastname":"Brown","gender" : "Male"},{"firstname":"Ana","lastname":"Carm","gender" : "Female"}]
